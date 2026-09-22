@@ -1,0 +1,50 @@
+h1{
+    color: red;
+    font-style: italic;
+    font-family: Arial;
+    text-transform: capitalize;
+
+}
+h2{
+    color: green;
+    text-decoration: underline;
+    font-family: Arial;
+
+}
+p{
+    color: blue;
+    font-family: Arial;
+}
+strong{
+    color: green;
+    font-weight: lighter;
+}
+.important{
+    color: red;
+    background-color: yellow;
+}
+.code-texte{
+    color: purple;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.c1{
+    font-size: large;
+    color: blue;
+    opacity: 0.5;
+}
+.c2{
+    font-weight: bold;
+    color: red;
+
+}
+.c3{
+    font-size: x-large;
+    color: black;
+
+}
+.c4{
+    font-size: xx-large;
+    color: green;
+    text-shadow:  -10px 10px 6px blue;
+}
